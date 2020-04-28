@@ -6,7 +6,8 @@ public class Rotator : MonoBehaviour
 {
     // Start is called before the first frame update
 
-    [Tooltip("Rotator")] [SerializeField] private float _speed = 2.0f;
+    [SerializeField]
+    private float _speed = 20f;
  
 
     void Start()
@@ -16,6 +17,6 @@ public class Rotator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(new Vector3 (0, 0, 1f) * Time.deltaTime * _speed);
+        transform.Rotate(new Vector3 (0f, 1f, 0f) * Time.deltaTime * _speed);
     }
 }

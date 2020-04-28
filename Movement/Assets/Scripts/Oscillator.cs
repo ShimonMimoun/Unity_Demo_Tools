@@ -8,11 +8,14 @@ public class Oscillator : MonoBehaviour
     // Start is called before the first frame update
     Quaternion _start, _end;
 
-    [Tooltip("Angle of Oscillator")] [SerializeField, Range(0.0f, 360f)] private float _angle = 90.0f;
+    [SerializeField, Range(0.0f, 360f)]
+    private float _angle = 90.0f;
 
-    [Tooltip("speed m//s")] [SerializeField, Range(0.0f, 5.0f)]private float _speed = 2.0f;
+    [SerializeField, Range(0.0f, 5.0f)]
+    private float _speed = 2.0f;
 
-    [Tooltip("Start Time (S)")] [SerializeField, Range(0.0f, 10.0f)] private float _startTime = 0.0f;
+    [SerializeField, Range(0.0f, 10.0f)]
+    private float _startTime = 0.0f;
     void Start()
     {
         _start = PendulimRotation(_angle);

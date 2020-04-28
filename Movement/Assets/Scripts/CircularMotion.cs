@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class CircularMotion : MonoBehaviour
 {
-    [Tooltip("Rotatation Speed")] [SerializeField] private float RotateSpeed = 5f;
-    [Tooltip("Raduis")] [SerializeField] private float Radius = 2f;
+    [SerializeField]
+    private float RotateSpeed = 5f, Radius = 2f;
 
     private Vector2 _centre;
     private float _angle;
