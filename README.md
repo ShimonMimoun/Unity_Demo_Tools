@@ -10,7 +10,8 @@
 - BiggerSmaller
 - CircularMotion
 - Oscillator
--  MultiplayerGame
+- MultiplayerGame
+- Minimap camera
 
 ## Use 
 
