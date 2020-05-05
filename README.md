@@ -13,7 +13,7 @@ The modifications to the official version are located in the Scene
 
 I added two functions to the official version of [@erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780-code)
 
- 1.  The player cannot fire lasers without a break, but must wait a certain time (say, half a second). The next shot
+ 1.  The player cannot fire lasers without a break, but must wait a certain time (say, half a second). The next shot which can be rotated thanks to the delay variable
 
  2. The possibility of playing with two players on the same games:
 	 - The first player uses the arrows to move and Space to shoot
