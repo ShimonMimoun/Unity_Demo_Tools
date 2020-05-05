@@ -23,7 +23,7 @@ We added two functions to the official version of [@erelsgl](https://github.com/
 
 ## Limit 
 #### first limit
-For the first section, We added a new script: BoundsTriger. We added 4 walls, for them I used cubes with collider and trigger which destroy each selected element who collides them.
+For the first section, We added a new script: BoundsTriger. We added 4 walls, for them We used cubes with collider and trigger which destroy each selected element who collides them.
 [BoundsTriger script](https://)
 #### second limit
 For the second section, We changed the: Mover script. We added YBound value for screen bounds, and an if statement that destroys the gameobject if it moved across the bounds..
