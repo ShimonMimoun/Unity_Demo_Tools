@@ -11,8 +11,7 @@ The modifications to the official version are located in the Scene
 > path://Collision/Assets/Scenes/homwork-shield.unity
 ***
 
-I added two functions to the official version of [@erelsgl]
-(https://github.com/erelsgl-at-ariel/gamedev-5780-code)
+I added two functions to the official version of [@erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780-code)
 
  1.  The player cannot fire lasers without a break, but must wait a certain time (say, half a second). The next shot
 
