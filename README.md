@@ -40,6 +40,7 @@ I added two functions to the official version of [@erelsgl](https://github.com/e
 
 - Unity 2019.3.10f1 (64-bit)
 - Visual Studio Community 
+- [Erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780)
 
 
 ### Online courses:
@@ -50,4 +51,3 @@ I added two functions to the official version of [@erelsgl](https://github.com/e
 * [Kenney's space kit](https://kenney.nl/assets/space-kit)
 * [Ductman's 2D Animated Spacehips](https://assetstore.unity.com/packages/2d/characters/2d-animated-spaceships-96852)
 * [Franc from the Noun Project](https://commons.wikimedia.org/w/index.php?curid=64661575)
-* [Erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780)
