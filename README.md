@@ -11,6 +11,10 @@ The modifications to the official version are located in the Scene
 
     ..//Collision/Assets/Scenes/homwork-shield.unity
 
+***Itch.io :***
+
+[Play game](https://shimon1705.itch.io/collision)
+
 I added two functions to the official version of [@erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780-code)
 
  1.  The player cannot fire lasers without a break, but must wait a certain time (say, half a second). The next shot which can be rotated thanks to the delay variable
