@@ -11,7 +11,7 @@ The modifications to the official version are located in the Scene
 
     ..//Collision/Assets/Scenes/homwork-shield.unity
 
-I added two functions to the official version of [@erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780-code)
+We added two functions to the official version of [@erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780-code)
 
  1.  The player cannot fire lasers without a break, but must wait a certain time (say, half a second). The next shot which can be rotated thanks to the delay variable
 
@@ -23,13 +23,13 @@ I added two functions to the official version of [@erelsgl](https://github.com/e
 
 ## Limit 
 #### first limit
-For the first section, I added a new script: BoundsTriger. I added 4 walls, for them I used cubes with collider and trigger which destroy each selected element who collides them.
+For the first section, We added a new script: BoundsTriger. We added 4 walls, for them I used cubes with collider and trigger which destroy each selected element who collides them.
 [BoundsTriger script](https://)
 #### second limit
-For the second section, I changed the: Mover script. I added YBound value for screen bounds, and an if statement that destroys the gameobject if it moved across the bounds..
+For the second section, We changed the: Mover script. We added YBound value for screen bounds, and an if statement that destroys the gameobject if it moved across the bounds..
 [Mover  script](https://)
 #### third limit
-For the third section , I changed the: KeyboardMover script. I added 2 values for the screen bounds, and four if statements that check if the player moved across the bounds his position changes to the other side.
+For the third section , We changed the: KeyboardMover script. We added 2 values for the screen bounds, and four if statements that check if the player moved across the bounds his position changes to the other side.
 [KeyboardMover  script](https://)
 
 ***Path :***
