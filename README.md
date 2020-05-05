@@ -22,6 +22,15 @@ I added two functions to the official version of [@erelsgl](https://github.com/e
 
 
 ## Limit 
+#### first limit
+for the first section, I added a new script: BoundsTriger. I added 4 walls, for them I used cubes with collider and trigger which destroy each selected element who collides them.
+[BoundsTriger script](https://)
+#### second limit
+for the second section, I changed the: Mover script. I added YBound value for screen bounds, and an if statement that destroys the gameobject if it moved across the bounds..
+[Mover  script](https://)
+#### third limit
+for the third section , I changed the: KeyboardMover script. I added 2 values for the screen bounds, and four if statements that check if the player moved across the bounds his position changes to the other side.
+[KeyboardMover  script](https://)
 ***Path :***
 
     ..//Limit/1 or ..//Limit/2and3
@@ -35,7 +44,15 @@ Destroyed; As the laser goes through the top of the screen - it is destroyed.
 
 3. Round World - When the player reaches one side of the world, he appears on the other side.
 
-## Jump
+## Jump Master
+[Play game](https://bargenish.itch.io/unity-jump-master)
+We created a game based on one of the games taught on Unity courses.  
+The game is 3D when the player is supposed to use a space bar to jump over obstacles that been creating each time period and been destroyed when they come out of frame.  
+We added music and player effects.  
+We added colliders with a trigger to the player and object of the barrier when the player collides with the obstacle the game is over and there is a blast sound with a special effect.  
+We have added a boolean variable that prevents the player from making a double jump.  
+We added a rolling stone behind the player, but it can't really hurt us.  
+The player actually not moving when only the background gets forward and comes back and we get a real sense of running so we can continue to play as much as we can without the background ends.
 ***Path :***
 
     ..//Jump
