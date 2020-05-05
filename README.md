@@ -16,9 +16,9 @@
 
 
 
-### Some examples of using Unity functions.
+## Some examples of using Unity functions.
 
-##### Here are the functions to test:
+### Here are the functions to test:
 
 
 - Rotator
