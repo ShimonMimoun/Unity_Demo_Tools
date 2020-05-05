@@ -7,9 +7,9 @@
 
 The modifications to the official version are located in the Scene 
 
+***Path :***
 
-> path://Collision/Assets/Scenes/homwork-shield.unity
-***
+    ..//Collision/Assets/Scenes/homwork-shield.unity
 
 I added two functions to the official version of [@erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780-code)
 
@@ -21,10 +21,28 @@ I added two functions to the official version of [@erelsgl](https://github.com/e
 
 
 
+## Limit 
+***Path :***
+
+    ..//Limit/1 or ..//Limit/2 or ..//Limit/3
+
+Remember, one of the official components of every game is boundaries. By default, World Unity Games is
+Infinite and flat. Show how to use colliders to create boundaries in the spacecraft, so the world will
+1. A flat world with visible boundaries, such as walls that cannot be crossed;
+
+2. A flat world with invisible borders; For example, when the enemies go through the bottom of the screen, they are
+Destroyed; As the laser goes through the top of the screen - it is destroyed.
+
+3. Round World - When the player reaches one side of the world, he appears on the other side.
+
+
 ## Some examples of using Unity functions.
 
 ### Here are the functions to test:
 
+***Path :***
+
+    ..//MovementAndMiniMap  or ..//MultiplayerGame
 
 - Rotator
 - Mover
