@@ -31,6 +31,7 @@ for the second section, I changed the: Mover script. I added YBound value for sc
 #### third limit
 for the third section , I changed the: KeyboardMover script. I added 2 values for the screen bounds, and four if statements that check if the player moved across the bounds his position changes to the other side.
 [KeyboardMover  script](https://)
+
 ***Path :***
 
     ..//Limit/1 or ..//Limit/2and3
