@@ -46,6 +46,11 @@ Destroyed; As the laser goes through the top of the screen - it is destroyed.
 3. Round World - When the player reaches one side of the world, he appears on the other side.
 
 ## Jump Master
+
+***Path :***
+
+    ..//Jump
+
 [Play game](https://bargenish.itch.io/unity-jump-master)
 
 We created a game based on one of the games taught on Unity courses.  
@@ -55,10 +60,6 @@ We added colliders with a trigger to the player and object of the barrier when t
 We have added a boolean variable that prevents the player from making a double jump.  
 We added a rolling stone behind the player, but it can't really hurt us.  
 The player actually not moving when only the background gets forward and comes back and we get a real sense of running so we can continue to play as much as we can without the background ends.
-
-***Path :***
-
-    ..//Jump
 
 
 
