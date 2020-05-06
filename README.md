@@ -63,6 +63,22 @@ The player actually not moving when only the background gets forward and comes b
 
 
 
+## BFS implementation with C#
+***Path :***
+
+    ..//BFS/bfs.cs
+
+
+Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures. 
+It starts at the tree root (or some arbitrary node of a graph) and explores the neighbor nodes first, before moving to the next level 
+neighbors.
+
+There are explanations in the code itself.
+ 
+
+
+
+
 ## Some examples of using Unity functions.
 
 ### Here are the functions to test:
