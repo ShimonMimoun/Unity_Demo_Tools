@@ -74,7 +74,8 @@ It starts at the tree root (or some arbitrary node of a graph) and explores the 
 neighbors.
 
 There are explanations in the code itself.
- 
+
+*Example of run :*
 
 ![Demo Run](https://github.com/ShimonMimoun/Unity_Demo_Tools/raw/master/BFS/Example%20.jpeg)
 
