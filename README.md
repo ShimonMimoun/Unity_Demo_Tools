@@ -19,7 +19,7 @@ We added two functions to the official version of [@erelsgl](https://github.com/
 	 - The first player uses the arrows to move and Space to shoot
 	-  The second player uses the A_W_D_S and Q keys to shoot
 
-
+[Play game](https://bargenish.itch.io/improvement-spachship-game)
 
 ## Limit 
 #### first limit
@@ -44,6 +44,8 @@ Infinite and flat. Show how to use colliders to create boundaries in the spacecr
 Destroyed; As the laser goes through the top of the screen - it is destroyed.
 
 3. Round World - When the player reaches one side of the world, he appears on the other side.
+
+[Play game](https://bargenish.itch.io/spaceship-games)
 
 ## Jump Master
 
