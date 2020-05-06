@@ -11,6 +11,9 @@ The modifications to the official version are located in the Scene
 
     ..//Collision/Assets/Scenes/homwork-shield.unity
 
+
+[Play game -> itch.io](https://bargenish.itch.io/improvement-spachship-game)
+
 We added two functions to the official version of [@erelsgl](https://github.com/erelsgl-at-ariel/gamedev-5780-code)
 
  1.  The player cannot fire lasers without a break, but must wait a certain time (say, half a second). The next shot which can be rotated thanks to the delay variable
@@ -19,22 +22,31 @@ We added two functions to the official version of [@erelsgl](https://github.com/
 	 - The first player uses the arrows to move and Space to shoot
 	-  The second player uses the A_W_D_S and Q keys to shoot
 
-[Play game](https://bargenish.itch.io/improvement-spachship-game)
 
 ## Limit 
+
 #### first limit
+
 For the first section, We added a new script: BoundsTriger. We added 4 walls, for them We used cubes with collider and trigger which destroy each selected element who collides them.
 [BoundsTriger script](https://github.com/ShimonMimoun/Unity_Demo_Tools/tree/master/Limit)
+
 #### second limit
+
 For the second section, We changed the: Mover script. We added YBound value for screen bounds, and an if statement that destroys the gameobject if it moved across the bounds..
 [Mover  script](https://github.com/ShimonMimoun/Unity_Demo_Tools/tree/master/Limit)
+
 #### third limit
+
 For the third section , We changed the: KeyboardMover script. We added 2 values for the screen bounds, and four if statements that check if the player moved across the bounds his position changes to the other side.
 [KeyboardMover  script](https://github.com/ShimonMimoun/Unity_Demo_Tools/tree/master/Limit)
+
 
 ***Path :***
 
     ..//Limit/1 or ..//Limit/2and3
+    
+
+[Play game- -> itch.io](https://bargenish.itch.io/spaceship-games)
 
 Remember, one of the official components of every game is boundaries. By default, World Unity Games is
 Infinite and flat. Show how to use colliders to create boundaries in the spacecraft, so the world will
@@ -45,7 +57,6 @@ Destroyed; As the laser goes through the top of the screen - it is destroyed.
 
 3. Round World - When the player reaches one side of the world, he appears on the other side.
 
-[Play game](https://bargenish.itch.io/spaceship-games)
 
 ## Jump Master
 
@@ -53,7 +64,7 @@ Destroyed; As the laser goes through the top of the screen - it is destroyed.
 
     ..//Jump
 
-[Play game](https://bargenish.itch.io/unity-jump-master)
+[Play game -> itch.io](https://bargenish.itch.io/unity-jump-master)
 
 We created a game based on one of the games taught on Unity courses.  
 The game is 3D when the player is supposed to use a space bar to jump over obstacles that been creating each time period and been destroyed when they come out of frame.  
