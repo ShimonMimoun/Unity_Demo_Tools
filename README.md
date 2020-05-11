@@ -67,7 +67,7 @@ Destroyed; As the laser goes through the top of the screen - it is destroyed.
 [Play game -> itch.io](https://bargenish.itch.io/unity-jump-master)
 
 We created a game based on one of the games taught on Unity courses.  
-The game is 3D when the player is supposed to use a space bar to jump over obstacles that been creating each time period and been destroyed when they come out of frame.  
+The game is 3D when the player is supposed to use the space bar to jump over obstacles that been creating each time period and been destroyed when they come out of frame.  
 We added music and player effects.  
 We added colliders with a trigger to the player and object of the barrier when the player collides with the obstacle the game is over and there is a blast sound with a special effect.  
 We have added a boolean variable that prevents the player from making a double jump.  
