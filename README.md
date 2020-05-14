@@ -45,8 +45,6 @@ For the third section , We changed the: KeyboardMover script. We added 2 values 
 
     ..//Limit/1 or ..//Limit/2and3
     
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/game%20screenshot.png" width=400>
-
 [Play game- -> itch.io](https://bargenish.itch.io/spaceship-games)
 
 Remember, one of the official components of every game is boundaries. By default, World Unity Games is
@@ -68,7 +66,9 @@ Destroyed; As the laser goes through the top of the screen - it is destroyed.
 [Play game -> itch.io](https://bargenish.itch.io/unity-jump-master)
 
 
-<img src="https://github.com/ennagrigor/PigDogGame/blob/master/Screenshot_1.png" width=400>
+
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/game%20screenshot.png" width=400>
+
 
 
 We created a game based on one of the games taught on Unity courses.  
@@ -79,7 +79,7 @@ We have added a boolean variable that prevents the player from making a double j
 We added a rolling stone behind the player, but it can't really hurt us.  
 The player actually not moving when only the background gets forward and comes back and we get a real sense of running so we can continue to play as much as we can without the background ends.
 
-his code shows how the animation is activated when the player jumps.
+his code shows how the animation and sound is activated when the player jumps.
 
 <img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/player%20animation.JPG">
 
