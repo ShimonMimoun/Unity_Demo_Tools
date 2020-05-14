@@ -68,7 +68,7 @@ Destroyed; As the laser goes through the top of the screen - it is destroyed.
 
 
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/game%20screenshot.png" width=400>
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/game%20screenshot.png" width=400>
 
 
 
@@ -85,37 +85,37 @@ The player actually not moving when only the background gets forward and comes b
 This piece of code shows how the animation and sound are activated when the player jumps..
 
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/player%20animation.JPG">
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/player%20animation.JPG">
 
 
 
 This code shows the animation and sound is activated when the player hits the obstacles.
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/explosion%20animation.JPG">
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/explosion%20animation.JPG">
 
 
 
 This code prevents the player from double jumping
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Prevents%20double%20jumping.JPG">
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/Prevents%20double%20jumping.JPG">
 
 
 
 This code returns the background back
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/RepeatBackground.JPG">
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/RepeatBackground.JPG">
 
 
 
 This code moves the background and rotates the rock
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Moves%20background%20and%20rotates%20rock.JPG">
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/Moves%20background%20and%20rotates%20rock.JPG">
 
 
 
 This code spwans new obstacles
 
-<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/SpawnManager.JPG">
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Document/SpawnManager.JPG">
 
 ## Audio
 
