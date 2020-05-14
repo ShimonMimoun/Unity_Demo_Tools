@@ -45,6 +45,7 @@ For the third section , We changed the: KeyboardMover script. We added 2 values 
 
     ..//Limit/1 or ..//Limit/2and3
     
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/game%20screenshot.png" width=400>
 
 [Play game- -> itch.io](https://bargenish.itch.io/spaceship-games)
 
@@ -65,6 +66,8 @@ Destroyed; As the laser goes through the top of the screen - it is destroyed.
     ..//Jump
 
 [Play game -> itch.io](https://bargenish.itch.io/unity-jump-master)
+
+<img src="https://github.com/ennagrigor/PigDogGame/blob/master/Screenshot_1.png" width=400>
 
 We created a game based on one of the games taught on Unity courses.  
 The game is 3D when the player is supposed to use the space bar to jump over obstacles that been creating each time period and been destroyed when they come out of frame.  
