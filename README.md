@@ -87,6 +87,22 @@ This code shows the animation and sound is activated when the player hits the ob
 
 <img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/explosion%20animation.JPG">
 
+This code prevents the player from double jumping
+
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Prevents%20double%20jumping.JPG">
+
+This code returns the background back
+
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/RepeatBackground.JPG">
+
+This code moves the background and rotates the rock
+
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/Moves%20background%20and%20rotates%20rock.JPG">
+
+This code spwans new obstacles
+
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/SpawnManager.JPG">
+
 
 ## BFS implementation with C#
 ***Path :***
