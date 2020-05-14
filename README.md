@@ -63,6 +63,7 @@ Destroyed; As the laser goes through the top of the screen - it is destroyed.
 
     ..//Jump
 
+## Link to ITCH.IO
 [Play game -> itch.io](https://bargenish.itch.io/unity-jump-master)
 
 
@@ -115,6 +116,14 @@ This code moves the background and rotates the rock
 This code spwans new obstacles
 
 <img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/SpawnManager.JPG">
+
+## Audio
+
+The game has 3 types of audio components:
+
+- The background music: plays throughout the game.
+- The jump: plays when the player jump.
+- The explosion: plays when the player hits the obstacle.
 
 
 ## BFS implementation with C#
