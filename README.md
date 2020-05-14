@@ -79,9 +79,13 @@ We have added a boolean variable that prevents the player from making a double j
 We added a rolling stone behind the player, but it can't really hurt us.  
 The player actually not moving when only the background gets forward and comes back and we get a real sense of running so we can continue to play as much as we can without the background ends.
 
-his code shows how the animation and sound is activated when the player jumps.
+This code shows how the animation and sound is activated when the player jumps.
 
 <img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/player%20animation.JPG">
+
+This code shows the animation and sound is activated when the player hits the obstacles.
+
+<img src="https://github.com/ShimonMimoun/Unity_Demo_Tools/blob/master/explosion%20animation.JPG">
 
 
 ## BFS implementation with C#
